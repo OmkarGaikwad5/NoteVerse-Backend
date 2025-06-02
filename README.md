@@ -1,9 +1,9 @@
 
 # 📘 NoteVerse Backend
-NoteVerse Frontend is a responsive and modern React-based web application designed for intuitive note-taking and organization. It supports folders, rich text input, drag-and-drop functionality, and seamless user interactions—all tailored for an elegant user experience.
+NoteVerse Backend is a responsive and modern React-based web application designed for intuitive note-taking and organization. It supports folders, rich text input, drag-and-drop functionality, and seamless user interactions—all tailored for an elegant user experience.
 
 ## 📌 Project Overview
-NoteVerse Frontend is a React-based single-page application designed for intuitive note-taking and folder-based organization. It features dynamic note creation, editing, and deletion with real-time UI updates, dark/light mode support, and seamless integration with a backend API for a full-stack note management experience.
+NoteVerse Backend is a React-based single-page application designed for intuitive note-taking and folder-based organization. It features dynamic note creation, editing, and deletion with real-time UI updates, dark/light mode support, and seamless integration with a backend API for a full-stack note management experience.
 
 ## 🚀 Features  
 1) ✅ User-friendly note-taking interface  
@@ -35,7 +35,7 @@ NoteVerse Frontend is a React-based single-page application designed for intuiti
 
 ```sh
 git clone https://github.com/your-username/noteverse-frontend.git
-cd noteverse-frontend
+cd noteverse-backend
 ```
 
 2) **📦 Install dependencies**
