@@ -1,6 +1,8 @@
 const mongoose = require('mongoose');
+const dotenv = require("dotenv") ;
+dotenv.config();
 
-const mongoURI = "mongodb://127.0.0.1:27017/NoteVerse"; // Use IPv4 explicitly
+const mongoURI = process.env.MONGO_URI // Use IPv4 explicitly
 
 const connectDB = async () => {
     try {
