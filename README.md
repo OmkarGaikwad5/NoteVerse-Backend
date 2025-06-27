@@ -53,7 +53,7 @@ CRYPTO_SECRET=your_crypto_secret
 
 4️⃣**Run the Development Server**
 ```sh
-npm run dev
+node app.js/server.js
 ```
 
 5️⃣**Build for Production**
